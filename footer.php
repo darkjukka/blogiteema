@@ -2,7 +2,7 @@
 
     <footer class="blog-footer">
       <p>Fysioterapeutti Kari-Pekka Sirkka </br>
-      email: kapu (at) palokanpanot.fi </p>
+      email: kapu (at) sahkoposti.fi </p>
       <p><a href="http://www.palokanfysioterapia.fi/"> Palokan fysioterapia </a></p>
     </footer>
 
